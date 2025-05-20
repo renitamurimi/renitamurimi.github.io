@@ -3,7 +3,7 @@ title: "Wireless body area networks for healthcare: A survey"
 collection: publications
 category: manuscripts
 permalink: /publication/2012-06-01-WBAN-healthcare-survey
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper presents a survey of design challenges in networks of wearable or implantable sensors that can be used in healthcare.'
 date: 2012-06-01
 venue: 'International Journal of Ad Hoc, Sensor & Ubiquitous Computing'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
