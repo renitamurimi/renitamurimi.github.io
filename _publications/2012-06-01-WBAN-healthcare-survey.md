@@ -7,7 +7,7 @@ permalink: /publication/2012-06-01-WBAN-healthcare-survey
 date: 2012-06-01
 venue: 'International Journal of Ad Hoc, Sensor & Ubiquitous Computing'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://renitamurimi.github.io/files/ledger2024.pdf'
+paperurl: 'http://renitamurimi.github.io/files/wban2012.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
