@@ -3,7 +3,7 @@ title: "Decentralization, Blockchains, and the Development of Smart Communities 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-ledger-blockchain
-#excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper examines how blockchain can be used in decentralized, resource-constrained environments to create smart communities. Four case studies are presented.'
 date: 2024-02-17
 venue: 'Ledger'
 paperurl: 'http://renitamurimi.github.io/files/ledger2024.pdf'
