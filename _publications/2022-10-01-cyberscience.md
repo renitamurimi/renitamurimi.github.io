@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2022-10-01-cyberscience
 excerpt: 'Mental models help us learn and adapt to new and complex environments. This paper presents an overview of research over the past decade in the area of mental models in cybersecurity.'
 date: 2022-10-01
-venue: 'Proceedings of the International Conference on Cybersecurity, Situational Awareness and Social Media'
+venue: 'Proceedings of the IEEE International Conference on Cybersecurity, Situational Awareness and Social Media'
 paperurl: 'http://renitamurimi.github.io/files/cyberscience2022.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
