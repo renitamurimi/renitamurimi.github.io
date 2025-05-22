@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2007-10-14-sensorcomm
 excerpt: 'This paper provides an information-theoretic framework for estimating the redundancy in a random deployment of nodes without the need of location information of nodes.'
 date: 2007-10-14
-venue: 'Proceedings of the IEEE International Conference on Sensor Technologies and Applications (SENSORCOMM 2007)'
+venue: 'Proceedings of the IEEE International Conference on Sensor Technologies and Applications (SENSORCOMM 2007) - Authors: Renita Machado, Sirin Tekinay'
 paperurl: 'http://renitamurimi.github.io/files/sensorcomm2007.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

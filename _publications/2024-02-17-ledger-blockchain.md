@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-17-ledger-blockchain
 excerpt: 'This paper examines how blockchain can be used in decentralized, resource-constrained environments to create smart communities. Four case studies are presented.'
 date: 2024-02-17
-venue: 'Ledger'
+venue: 'Ledger  (Authors: Brett Bourbon and Renita Murimi)'
 paperurl: 'http://renitamurimi.github.io/files/ledger2024.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

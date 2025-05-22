@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2012-06-01-WBAN-healthcare-survey
 excerpt: 'This paper presents a survey of design challenges in networks of wearable or implantable sensors that can be used in healthcare.'
 date: 2012-06-01
-venue: 'International Journal of Ad Hoc, Sensor & Ubiquitous Computing'
+venue: 'International Journal of Ad Hoc, Sensor & Ubiquitous Computing (Authors: Garth V Crosby, Tirthankar Ghosh, Renita Murimi, Craig A Chin)'
 paperurl: 'http://renitamurimi.github.io/files/wban2012.pdf'
 ---
 
