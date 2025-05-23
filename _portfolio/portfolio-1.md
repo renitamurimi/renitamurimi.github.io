@@ -4,7 +4,7 @@ excerpt: "Is information different from misinformation? What are the criteria by
 collection: portfolio
 ---
 
-n a world overflowing with information—and misinformation—how do we separate truth from distortion? Brett Bourbon and Dr. Renita Murimi (tag) are thrilled to introduce their upcoming book, Organized Skepticism in the Age of Information: Surviving the Kingdom of Gossip, a deep dive into the structure of information, the mechanics of misinformation, and the ways in which our social dynamics shape our understanding of information.
+In a world overflowing with information—and misinformation—how do we separate truth from distortion? Brett Bourbon and Dr. Renita Murimi (tag) are thrilled to introduce their upcoming book, Organized Skepticism in the Age of Information: Surviving the Kingdom of Gossip, a deep dive into the structure of information, the mechanics of misinformation, and the ways in which our social dynamics shape our understanding of information.
 
 From social media echo chambers to historical propaganda, from cognitive biases to AI-generated content, this book unpacks the hidden frameworks that influence what we believe—and why. If you’ve ever questioned the information you consume, this is the book for you.
 
