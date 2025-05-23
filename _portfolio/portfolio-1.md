@@ -10,5 +10,6 @@ From social media echo chambers to historical propaganda, from cognitive biases 
 
 [Available here](https://www.goodreads.com/book/220211457-organized-skepticism-in-the-age-of-misinformation/get_a_copy)
 
+Another book is on the way! My second book is on cryptographic data protection algorithms, and is under contract with [No Starch Press](https://nostarch.com/). Stay tuned for more. 
 
 
