@@ -11,3 +11,5 @@ paperurl: 'http://renitamurimi.github.io/files/cyberscience2022.pdf'
 ---
 
 Mental models are essential in learning how to adapt to new and evolving circumstances. The landscape of best practices in cybersecurity is a constantly changing area, as the list of best practices evolves in response to the increasing complexity and scope of threats. In response, users have adapted to the threats and corresponding countermeasures with mental models that simplify the complex networked environments that they inhabit. This paper presents an overview that spans over a decade of research in mental models of users when dealing with cybersecurity threats and corresponding security measures in different kinds of environments. The lessons from over a decade of research in mental models for cybersecurity offer valuable insights about how users learn and adapt, and how their backgrounds and situational awareness play a critical role in shaping their mental models about cybersecurity.
+
+[Available here](https://link.springer.com/chapter/10.1007/978-981-19-6414-5_7)
