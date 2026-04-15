@@ -1,6 +1,6 @@
 ---
 title: "Organized Skepticism in the Age of Misinformation: Surviving the Kingdom of Gossip"
-excerpt: "Is information different from misinformation? What are the criteria by which we perceive them as different or even opposite to each other? If you think that truth or veracity is what separates the two, this book will make you think again. <br/><img src='/images/orgSkep.png'>"
+excerpt: "Is information different from misinformation? What are the criteria by which we perceive them as different or even opposite to each other? If you think that truth or veracity is what separates the two, this book will make you think again. <br/></br><img src='/images/orgSkep.png'>"
 collection: portfolio
 ---
 
@@ -10,6 +10,6 @@ From social media echo chambers to historical propaganda, from cognitive biases 
 
 [Available here](https://www.goodreads.com/book/220211457-organized-skepticism-in-the-age-of-misinformation/get_a_copy)
 
-Another book is on the way! My second book is on cryptographic data protection algorithms, and is under contract with [No Starch Press](https://nostarch.com/). Stay tuned for more. 
+
 
 
