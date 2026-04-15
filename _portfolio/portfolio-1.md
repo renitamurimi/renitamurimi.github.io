@@ -1,6 +1,8 @@
 ---
 title: "Organized Skepticism in the Age of Misinformation: Surviving the Kingdom of Gossip"
-excerpt: "Is information different from misinformation? What are the criteria by which we perceive them as different or even opposite to each other? If you think that truth or veracity is what separates the two, this book will make you think again. <br/></br><img src='/images/orgSkep.png'>"
+excerpt: "Is information different from misinformation? What are the criteria by which we perceive them as different or even opposite to each other? If you think that truth or veracity is what separates the two, this book will make you think again. 
+<br>
+<img src='/images/orgSkep.png'>"
 collection: portfolio
 ---
 
