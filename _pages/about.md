@@ -9,10 +9,12 @@ redirect_from:
 
 I am an Associate Professor of Cybersecurity at the [University of Dallas](https://udallas.edu/). I received a Phd and MS in Electrical Engineering from [New Jersey Institute of Technology](https://www.njit.edu/), where my research was focused on studying the properties of wireless sensor networks. I was fortunate to be advised by [Sirin Tekinay](https://www.linkedin.com/in/sirin-tekinay-82149211/) and [Grace Guiling Wang](https://web.njit.edu/~gwang/), and I continue to be influenced by the ideas in network theory and graph theory that I learned during my time at NJIT. Previously, I received a Bachelor of Engineering in Electronics and Communications (with distinction) from [Manipal Institute of Technology](https://www.manipal.edu/mit.html) in India. My interests in network science from a single elective called Mobile Networks that I took during my final year of my undergraduate education. 
 
+My CV is [here](http://renitamurimi.github.io/files/web_CV.pdf). (Last updated in March 2026).
+
 Research interests
 ======
 
-My current research interests are in the areas of cybersecurity, network science, blockchain, and computational social science. I am interested in interdisciplinary research, and I have collaborated and published with fellow researchers in diverse areas. I am the co-recipient of the 2011 Bill and Melinda Gates Foundation's Grand Challenges Explorations Award for research into the navigation behavior of the Aedes Aegypti mosquito. 
+My current research interests are in the areas of cybersecurity, network science, blockchain, and computational social science. I am interested in interdisciplinary research, and I have collaborated and published with researchers in diverse areas in network science, cybersecurity, philosophy of technology, blockchain, machine learning, and computational social science. I was the co-recipient of the 2011 Bill and Melinda Gates Foundation's Grand Challenges Explorations Award for research into the navigation behavior of the Aedes Aegypti mosquito. 
 
 Teaching
 ======
